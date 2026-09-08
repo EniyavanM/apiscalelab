@@ -459,25 +459,28 @@ They should not be interpreted as universal capacity limits for EC2, FastAPI, Po
 
 # Screenshots
 
-Place benchmark screenshots in a `screenshots/` directory.
+
 
 ## PostgreSQL — Connection Per Request
+<img width="1428" height="485" alt="Screenshot 2026-09-08 140628" src="https://github.com/user-attachments/assets/2de9d970-f016-49b8-a8fe-dfe2b0b0296c" />
 
-![PostgreSQL Connection Per Request](screenshots/postgres-connection-per-request.png)
 
 ## PostgreSQL — Connection Pool
 
-![PostgreSQL Connection Pool](screenshots/postgres-connection-pool.png)
+<img width="1918" height="1021" alt="Screenshot 2026-09-08 155952" src="https://github.com/user-attachments/assets/46a2523e-1853-4905-aa9e-3e1aad06a1f1" />
+
 
 ## Redis — Cache Hit
 
-![Redis Cache Hit](screenshots/redis-cache-hit.png)
+<img width="1919" height="1026" alt="Screenshot 2026-09-08 155714" src="https://github.com/user-attachments/assets/21785f95-3b79-4067-9be9-13423baa8821" />
+
 
 ## EC2 CPU During Benchmark
 
-![EC2 CPU Utilization](screenshots/ec2-cpu-utilization.png)
 
-> Do not upload screenshots containing passwords, private keys, authentication tokens, or other secrets.
+<img width="1919" height="1020" alt="Screenshot 2026-09-08 154545" src="https://github.com/user-attachments/assets/0166b734-13b0-455c-a064-f1b0c449f2bc" />
+
+
 
 ---
 
