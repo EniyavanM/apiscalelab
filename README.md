@@ -469,10 +469,12 @@ They should not be interpreted as universal capacity limits for EC2, FastAPI, Po
 
 <img width="1918" height="1021" alt="Screenshot 2026-09-08 155952" src="https://github.com/user-attachments/assets/46a2523e-1853-4905-aa9e-3e1aad06a1f1" />
 
+<img width="1422" height="480" alt="Screenshot 2026-09-08 160004" src="https://github.com/user-attachments/assets/9d2295be-4605-4d7f-8b6d-5eb92b53ca1a" />
 
 ## Redis — Cache Hit
 
 <img width="1919" height="1026" alt="Screenshot 2026-09-08 155714" src="https://github.com/user-attachments/assets/21785f95-3b79-4067-9be9-13423baa8821" />
+<img width="1588" height="479" alt="Screenshot 2026-09-08 155345" src="https://github.com/user-attachments/assets/8677ded8-922e-4b5b-8a1e-6875fc521078" />
 
 
 ## EC2 CPU During Benchmark
@@ -480,6 +482,7 @@ They should not be interpreted as universal capacity limits for EC2, FastAPI, Po
 
 <img width="1919" height="1020" alt="Screenshot 2026-09-08 154545" src="https://github.com/user-attachments/assets/0166b734-13b0-455c-a064-f1b0c449f2bc" />
 
+<img width="1344" height="489" alt="Screenshot 2026-09-08 152631" src="https://github.com/user-attachments/assets/467785ad-d90b-408f-98e8-ca60a7820280" />
 
 
 ---
